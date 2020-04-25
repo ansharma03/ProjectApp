@@ -1,0 +1,4 @@
+rootProject.name='ProjectApp'
+include ':app'
+include ':healthyhelper'
+include ':applicationa'
